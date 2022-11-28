@@ -1,5 +1,5 @@
 public class Empleado {
-        String nombre;
+    String nombre; // Ahora el campo nombre es inmutable.
         int edad;
 
         Empleado(String name, int edad) {
